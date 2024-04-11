@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5dbf295f-8a2b-41a9-9f6f-da4d07234e05/deploy-status)](https://app.netlify.com/sites/tirath-odin-cv-builder/deploys)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
